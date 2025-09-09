@@ -13,7 +13,7 @@
 
 #### 1. Clone the repository:
 ```bash
-git clone https://github.com/evansveryown/SOLARA.git
+git clone https://github.com/cassyomondi/SOLARA.git
 
 Or download the ZIP and extract it.
 ```
